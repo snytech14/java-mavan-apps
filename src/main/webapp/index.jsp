@@ -10,7 +10,7 @@
 		It is now
 		<%= new java.util.Date() %></p>
 	<p>
-		You are coming from training-job
+		You are coming from training-job right now
 		<%= request.getRemoteAddr()  %></p>
 	<p> Successfully tested.</p>
 	</center>
