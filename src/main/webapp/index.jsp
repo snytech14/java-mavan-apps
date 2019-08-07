@@ -12,7 +12,7 @@
 	<p>
 		You are coming from office-job right now
 		<%= request.getRemoteAddr()  %></p>
-	<p> Ho! Successfully Build, Test, Released & Deployed.</p>
+	<p> Hello! Successfully Build, Test, Released & Deployed.</p>
 	</center>
 </body>
 </html>
